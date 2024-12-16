@@ -16,7 +16,7 @@ Jenkins(Githubdaki bir test otomasyon projesi ile bağlantı kurup bu projedeki 
 ## Üzerinde çalıştığım konularım
 Allure reportu dahil edecek şekilde; web test otomasyon(tüm detaylarıyla), api test otomasyon, veritabanı test otomasyon ve mobil test otomasyon projeleri ve web servis testleri yazıp Jenkins toolu ile otomatik koşum ve raporlamasının yapılması.
 
-## İletişim adreslerim
+## İletişim bilgilerim
 > [Freelance](https://www.hakcanswtest.com)
 
 > info@hakcanswtest.com
