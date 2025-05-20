@@ -69,4 +69,4 @@ Monitoring tool usage, performance test design and execution, and the Jenkins + 
 
 > info@hakcanswtest.com
 
-> [linkedin](https://www.linkedin.com/in/huseyinakcan34/)
+> [Linkedin](https://www.linkedin.com/in/huseyinakcan34/)
