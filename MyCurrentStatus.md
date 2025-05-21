@@ -63,7 +63,6 @@ Knowledge about service virtualization (what it is, why it should be used — e.
 Monitoring tool usage, performance test design and execution, and the Jenkins + JMeter combination are currently in progress. :)
 
 
-
 ## My Contact Information
 > [Freelance](https://www.hakcanswtest.com)
 
