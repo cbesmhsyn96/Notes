@@ -19,8 +19,12 @@ Web test otomasyonu kapsamında; Allure reportu dahil edecek şekilde; web test 
 Web servis testi kapsamındaki konularım;
 Karate API otomasyonu, Jmeter(HTTP Recording method, detay için https://github.com/cbesmhsyn96/PerformanceTests ), HTTP Durum kodları(400,401,403,404,405,429,500,502,503 ne anlama gelir), monitoring t., Jenkins ent., Performans test türlerinin(Load,Stress,Soak,Spike, Scalability testler ile alakalı bilgiler) gerçeklenmesi, SOAP ve REST hakkında bilgi, servis sanallaştırma hakkında bilgi(nedir, neden kullanılmalı(503' e önlem alınmalı...))
 
-> Monitoring toolu, performans testlerinin tasarlanıp koşumu, Jenkins + Jmeter kombinasyonu konuları henüz inprogress tadır. :)
+> Monitoring toolu, Jenkins + Jmeter kombinasyonu konuları tamam(maille bildirimi Java ile hallediyorum. Sonra rapor hazırlayıp sunma veya manuel yollama kalıyor.)
 
+>Performans testlerinin tasarlanıp koşumu henüz inprogress tadır.(Henüz yapmadım. Ama Jmeter' a aşina olduğumdan Yük, Stres, Ani yük ve stablite test simulasyonu oluşturmam tahmini en fazla 1 saatimi alır.)
+
+API ve performans test sonucu raporunun nasıl sunulacağı/anlatılacağı önemli bir konu.
+Web testinde eklentilerin verimli şekilde kullanılması, bilgi kalabalığı değil kapsamlı işe yarar bir sonuç sunmak önemli.
 
 ## İletişim bilgilerim
 > [Freelance](https://www.hakcanswtest.com)
@@ -60,7 +64,12 @@ Implementation of performance test types (Load, Stress, Soak, Spike, Scalability
 Knowledge about SOAP and REST,
 Knowledge about service virtualization (what it is, why it should be used — e.g., as a precaution against 503 errors)
 
-Monitoring tool usage, performance test design and execution, and the Jenkins + JMeter combination are currently in progress. :)
+>The monitoring tool setup, Jenkins + JMeter integration topics are complete. (I'm handling email notifications via Java. What remains is preparing the report and either presenting it or sending it manually.)
+
+>The design and execution of performance tests are still in progress. (I haven’t implemented them yet. However, since I'm already familiar with JMeter, creating simulations for load, stress, spike, and stability tests would take me approximately one hour at most.)
+
+How to present and explain the results of API and performance tests is an important topic.
+In web testing, it’s crucial to use plugins efficiently—not to create information overload, but to deliver a comprehensive and practical outcome.
 
 
 ## My Contact Information
